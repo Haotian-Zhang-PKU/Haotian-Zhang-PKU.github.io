@@ -66,7 +66,7 @@
 
 # Projects
 
-### Research on facial expression recognition based on NAS	
+### The research of identification of influential spreaders in complex networks
 #### _2020/9-2021/05_
 * Attend a highly collaborative project focused on the mining of influential nodes in complex networks and fuzzy theory.
 * Put forward the concept that inner structure in a node’s box contains information about its importance in complex networks and proposed LFIC algorithm. Combined the global information of networks with the nodes’ degree changing rates and proposed LDD algorithm.
