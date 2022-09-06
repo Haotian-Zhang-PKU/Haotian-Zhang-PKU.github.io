@@ -7,8 +7,8 @@
 
 **My research interests include**
 
-* **Multi-modal Information Assisted Channel Estimation**: RGB-D assisted channel estimation in Vehicular Communication Networks
-* **Multi-modal Information Assisted Predictive Beamforming**: Multi-modal sensory data assisted predictive beamforming in Vehicular Communication Networks
+* **Multi-modal Sensor Fusion and Its Application in Transceiver Design**: The fusion of multi-modal sensory data assisted predictive beamforming and channel estimation in Vehicular Communication Networks
+* **Multi-modal Information Assisted Resource Allocation in large-scale Multi-Agent Scenarios**:  Multi-modal sensory data assisted load forecasting and communication resource allocation
 
 
 # Education
