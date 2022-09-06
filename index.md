@@ -1,19 +1,19 @@
 # About Me
 
-**I'm now a Ph.D. student of *School of Electronics, Peking University* under the supervision of [Dr. Xiang Cheng](https://yzhu.io).**
+**I'm now a Ph.D. student of *School of Electronics, Peking University* under the supervision of [Dr. Xiang Cheng](https://sites.google.com/site/xchengpku/home ).**
 
 
 # Interests
 
 **My research interests include**
 
-* **Computer Vision**: 2D and 3D Classification, Segmentation
-* **Cognitive Reasoning**: Physical Reasoning
-* **Auto-ML**: Neural Architecture Search
+* **Multi-modal Information Assisted Channel Estimation**: RGB-D assisted channel estimation in Vehicular Communication Networks
+* **Multi-modal Information Assisted Predictive Beamforming**: Multi-modal sensory data assisted predictive beamforming in Vehicular Communication Networks
+
 
 # Education
 
-### - Ph.D in Intelligent Science and Technology
+### - Ph.D in Information and Signal Processing
 #### _2022/-09-2027/06 (expected)_
   * **Peking University, Beijing**
 
@@ -25,13 +25,13 @@
 <table border="2">
   <tr>
     <td width="75%">
-       <p><b>Auto-FERNet: A Facial Expression Recognition Network with Architecture Search</b></p>
-       <p><small><b>Shiqian Li</b>, W.Li, S.Wen, K.Shi, Y.Yang, P.Zhou, T.Huang </small></p>
-       <p><small><b>IEEE Transactions on Network Science and Engineering (TNSE), 2021</b></small></p>
-       <a href="https://ieeexplore.ieee.org/abstract/document/9442348">Paper</a>
+      <p><b>车联网通信感知一体化：现状与发展趋势</b></p>
+      <p><small>S.Zhong, <b>Haotian Zhang</b>, Y.Deng </small></p>
+      <p><small><b>Information Sciences, 2022</b></small></p>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522008672">Paper</a>
     </td>
     <td width="25%">
-      <img src="Auto-FERnet.png" width="100%">
+      <img src="TFS.png" width="100%">
     </td>
   </tr>
 </table>
@@ -39,13 +39,27 @@
 <table border="2">
   <tr>
     <td width="75%">
-      <p><b>Span Identification and Technique Classification of Propaganda in News Articles</b></p>
-      <p><small>W.Li, <b>Shiqian Li</b>, C.Liu, L.Lu, Z.Shi, S.Wen</small></p>
-      <p><small><b>Complex & Intelligent Systems (Complex Intell. Syst.), 2021</b></small></p>
-      <a href="https://link.springer.com/article/10.1007/s40747-021-00393-y">Paper</a>
+       <p><b>LFIC: Identifying influential nodes in complex networks by local fuzzy information centrality</b></p>
+       <p><small><b>Haotian Zhang</b>, S.Zhong, Y.Deng, KH.Cheong </small></p>
+       <p><small><b>IEEE Transactions on Fuzzy Systems (TFS), 2021</b></small></p>
+       <a href="https://ieeexplore.ieee.org/abstract/document/9537594/">Paper</a>
     </td>
     <td width="25%">
-      <img src="NLP.png" width="100%">
+      <img src="TFS.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
+      <p><b>Identification of influential nodes in complex networks: A Local Degree Dimension Approach</b></p>
+      <p><small>S.Zhong, <b>Haotian Zhang</b>, Y.Deng </small></p>
+      <p><small><b>Information Sciences, 2022</b></small></p>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522008672">Paper</a>
+    </td>
+    <td width="25%">
+      <img src="INS.png" width="100%">
     </td>
   </tr>
 </table>
@@ -67,9 +81,7 @@
 * I was responsible for data preprocessing and paper writing. Rank 19th globally in SemEval 2020.
 * We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique.
 
-# Photography
-In my spare time, I'd like to explore the beauty around me and record them using camera. [Here](https://lishiqianhugh.github.io/Photography/) are some photos shot on the road and in my life.
 
 # Contact Me
 
-**Email:** lishiqian2001@gmail.com
+**Email:** haotianzhang@stu.pku.edu.cn
