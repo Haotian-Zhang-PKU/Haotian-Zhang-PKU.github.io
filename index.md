@@ -11,6 +11,7 @@
 * **Multi-modal Information Assisted Resource Allocation in large-scale Multi-Agent Scenarios**:  Multi-modal sensory data assisted load forecasting and communication resource allocation
 
 
+
 # Education
 
 ### - Ph.D in Information and Signal Processing
@@ -66,7 +67,6 @@
 
 # Projects
 
-### The research of identification of influential spreaders in complex networks
 #### _2020/9-2021/05_
 * Attend a highly collaborative project focused on the mining of influential nodes in complex networks and fuzzy theory.
 * Put forward the concept that inner structure in a node’s box contains information about its importance in complex networks and proposed LFIC algorithm. Combined the global information of networks with the nodes’ degree changing rates and proposed LDD algorithm.
