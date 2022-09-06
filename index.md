@@ -28,7 +28,7 @@
       <p><b>车联网通信感知一体化：现状与发展趋势</b></p>
       <p><small>X.Cheng, <b>Haotian Zhang</b>, Z.Yang, Z.Huang, S.Li, A.Yu </small></p>
       <p><small><b>通信学报, 2022</b></small></p>
-      Paper</a>
+      </a>
     </td>
     <td width="25%">
       <img src="VCN.png" width="100%">
@@ -66,20 +66,37 @@
 
 # Projects
 
-### Research on adversarial perturbation on large-scale point cloud	
-#### _2020/12-2021/03_
-* I was an intern under the supervision of Dr. Jiwen-Lu, Tsinghua University, responsible for the work in semantic segmentation task. 
-* We proposed a general end-to-end framework of learning adversarial pertrubation for 3D object detection and semantic segmentation. We designed a novel pumping loss to accelerate the attacking process and improve the attacking perfomance.
-
 ### Research on facial expression recognition based on NAS	
-#### _2020/05-2020/07_
-* Supported by the Natural Science Foundation of China.
-* We initially applied NAS to facial expression recognition, achieving improvement both in accuracy and model size and outperforming many state-of-the-art methods.
+#### _2020/9-2021/05_
+* Attend a highly collaborative project focused on the mining of influential nodes in complex networks and fuzzy theory.
+* Put forward the concept that inner structure in a node’s box contains information about its importance in complex networks and proposed LFIC algorithm. Combined the global information of networks with the nodes’ degree changing rates and proposed LDD algorithm.
 
-### Research on propaganda detection in news articles	
-#### _2019/10-2019/12_
-* I was responsible for data preprocessing and paper writing. Rank 19th globally in SemEval 2020.
-* We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique.
+### Research on anomaly detection based on Unsupervised Machine Learning in Wireless Sensor Networks	
+#### _2019/10-2020/1_
+* Attend a highly collaborative project focused on the detection of anomalous attackers in WSNs.
+* Applied the Density Based Clustering (DPC) algorithm to the detection of anomalous behavior in WSNs, and proposed the NB-DPC algorithm to detect the selective forwarding attack in WSNs.
+* The work has gotten national patent. (Patent number: CN112929879A)
+
+# Awards
+
+### Honours Bachelor Degrees of UESTC
+#### _2022/6_
+
+### National Scholarship
+#### _2020/10_
+
+### Provincial First Prize in CUMCM
+#### _2020/10_
+
+### National Second Prize in NECCS
+#### _2021/5_
+
+### National Third Prize in NECCS
+#### _2020/10_
+
+### Honorable Mention of 2021 Mathematical Contest in Modeling (MCM)
+#### _2021/5_
+
 
 
 # Contact Me
