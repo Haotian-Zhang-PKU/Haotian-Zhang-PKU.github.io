@@ -26,12 +26,12 @@
   <tr>
     <td width="75%">
       <p><b>车联网通信感知一体化：现状与发展趋势</b></p>
-      <p><small>S.Zhong, <b>Haotian Zhang</b>, Y.Deng </small></p>
-      <p><small><b>Information Sciences, 2022</b></small></p>
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025522008672">Paper</a>
+      <p><small>X.Cheng, <b>Haotian Zhang</b>, Z.Yang, Z.Huang, S.Li, A.Yu </small></p>
+      <p><small><b>通信学报, 2022</b></small></p>
+      
     </td>
     <td width="25%">
-      <img src="TFS.png" width="100%">
+      <img src="VCN.png" width="100%">
     </td>
   </tr>
 </table>
