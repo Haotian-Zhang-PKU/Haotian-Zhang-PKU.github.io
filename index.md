@@ -29,7 +29,7 @@
       <p><b>车联网通信感知一体化：现状与发展趋势</b></p>
       <p><small>X.Cheng, <b>Haotian Zhang</b>, Z.Yang, Z.Huang, S.Li, A.Yu </small></p>
       <p><small><b>通信学报, 2022</b></small></p>
-      <a> Paper</a>
+      <a> Paper
     </td>
     <td width="25%">
       <img src="VCN.png" width="100%">
@@ -73,7 +73,7 @@
 * Put forward the concept that inner structure in a node’s box contains information about its importance in complex networks and proposed LFIC algorithm. Combined the global information of networks with the nodes’ degree changing rates and proposed LDD algorithm.
 
 ### Research on anomaly detection based on Unsupervised Machine Learning in Wireless Sensor Networks	
-#### _2019/10-2020/1_
+#### _2019/10-2020/10_
 * Attend a highly collaborative project focused on the detection of anomalous attackers in WSNs.
 * Applied the Density Based Clustering (DPC) algorithm to the detection of anomalous behavior in WSNs, and proposed the NB-DPC algorithm to detect the selective forwarding attack in WSNs.
 * The work has gotten national patent. (Patent number: CN112929879A)
