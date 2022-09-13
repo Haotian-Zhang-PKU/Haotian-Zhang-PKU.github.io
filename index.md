@@ -26,7 +26,7 @@
 <table border="2">
   <tr>
     <td width="75%">
-      <p><b>车联网通信感知一体化：现状与发展趋势</b></p>
+      <p><b>车联网通信感知一体化研究：现状与发展趋势</b></p>
       <p><small>X.Cheng, <b>Haotian Zhang</b>, Z.Yang, Z.Huang, S.Li, A.Yu </small></p>
       <p><small><b>通信学报, 2022</b></small></p>
       <a href="http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137">Paper</a>
