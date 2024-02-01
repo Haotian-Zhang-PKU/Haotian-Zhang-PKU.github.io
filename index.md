@@ -27,12 +27,12 @@
   <tr>
     <td width="75%">
       <p><b></b></p>
-      <p><small>X.Cheng, <b>Haotian Zhang</b>, J.Zhang, S.Gao, S.Li, Z.Huang, L.Bai, Z.Yang, X.Zheng, L.Yang </small></p>
+      <p><small>X.Cheng, <b>Haotian Zhang</b></u>, J.Zhang, S.Gao, S.Li, Z.Huang, L.Bai, Z.Yang, X.Zheng, L.Yang </small></p>
       <p><small><b>IEEE Communications Surveys & Tutorials (IF=35.6), 2023</b></small></p>
       <a href="https://ieeexplore.ieee.org/document/10330577">Paper</a>
     </td>
     <td width="25%">
-      <img src="General_SoM.pdf" width="100%">
+      <img src="General_SoM.png" width="100%">
     </td>
   </tr>
 </table>
