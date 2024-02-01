@@ -27,7 +27,7 @@
   <tr>
     <td width="75%">
       <p><b>Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines</b></p>
-      <p><small>X. Cheng, <b>Haotian Zhang</b>, J. Zhang, S. Gao, S. Li, Z. Huang, L. Bai, Z. Yang, X.Z heng, L. Yang </small></p>
+      <p><small>X. Cheng, <b>Haotian Zhang*</b>, J. Zhang, S. Gao, S. Li, Z. Huang, L. Bai, Z. Yang, X. Zheng, L. Yang </small></p>
       <p><small><b>IEEE Communications Surveys & Tutorials (IF=35.6), 2023</b></small></p>
       <a href="https://ieeexplore.ieee.org/document/10330577">Paper</a>
     </td>
