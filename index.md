@@ -26,6 +26,20 @@
 <table border="2">
   <tr>
     <td width="75%">
+      <p><b></b></p>
+      <p><small>X.Cheng, <b>Haotian Zhang</b>, J.Zhang, S.Gao, S.Li, Z.Huang, L.Bai, Z.Yang, X.Zheng, L.Yang </small></p>
+      <p><small><b>IEEE Communications Surveys & Tutorials (IF=35.6), 2022</b></small></p>
+      <a href="https://ieeexplore.ieee.org/document/10330577">Paper</a>
+    </td>
+    <td width="25%">
+      <img src="General_SoM.pdf" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
       <p><b>机器联觉：通信与多模态感知的智能融合</b></p>
       <p><small>X.Cheng, <b>Haotian Zhang</b>, S.Li, Z.Huang, Z.Yang, S.Gao, L.Bai, J.Zhang, X.Zheng, L.Yang </small></p>
       <p><small><b>模式识别与人工智能, 2022</b></small></p>
