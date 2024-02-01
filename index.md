@@ -16,11 +16,11 @@
 
 ### - Ph.D Candidate in Information and Signal Processing
 #### _2022/-09-2027/06 (expected)_
-  * **Peking University, Beijing**
+  * **School of Electronics, Peking University, Beijing**
 
 ### - Bachelor of Network Engineering
 #### _2018/09-2022/06_
-  * **University of Electronic Science and Technology of China, Chengdu**
+  * **School of Information Science and Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu**
 
 # Publications
 <table border="2">
