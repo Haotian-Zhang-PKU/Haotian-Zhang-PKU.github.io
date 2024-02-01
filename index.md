@@ -20,7 +20,7 @@
 
 ### - Bachelor of Network Engineering
 #### _2018/09-2022/06_
-  * **School of Information Science and Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu**
+  * **School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu**
 
 # Publications
 <table border="2">
