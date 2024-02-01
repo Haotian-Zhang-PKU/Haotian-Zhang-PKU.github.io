@@ -1,6 +1,6 @@
 # About Me
 
-**I'm now a Ph.D. candidate of *School of Electronics, Peking University* under the supervision of [Dr. Xiang Cheng](http://pcni.pku.edu.cn/homepage.html).**
+**I'm now a Ph.D. candidate of *School of Electronics, Peking University* under the supervision of [Dr. Xiang Cheng] (IEEE Fellow)(http://pcni.pku.edu.cn/homepage.html). I am a group member of *[Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html)*. My Google Scholar link is [here] (https://scholar.google.com/citations?hl=zh-CN&user=Vph0sK0AAAAJ&view_op=list_works&sortby=pubdate).**
 
 
 # Interests
