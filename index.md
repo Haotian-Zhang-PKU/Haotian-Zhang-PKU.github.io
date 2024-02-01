@@ -27,7 +27,7 @@
   <tr>
     <td width="75%">
       <p><b>机器联觉：通信与多模态感知的智能融合</b></p>
-      <p><small>X.Cheng, <b>Haotian Zhang</b>, etc. </small></p>
+      <p><small>X.Cheng, <b>Haotian Zhang</b>, S.Li, Z.Huang, Z.Yang, S.Gao, L.Bai, J.Zhang, X.Zheng, L.Yang </small></p>
       <p><small><b>模式识别与人工智能, 2022</b></small></p>
       <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml">Paper</a>
     </td>
@@ -41,7 +41,7 @@
   <tr>
     <td width="75%">
       <p><b>应用于毫米波车车通信的多模态感知辅助波束预测</b></p>
-      <p><small>W.Wen, <b>Haotian Zhang</b>, S.Gao, X.Cheng </small></p>
+      <p><small>W.Wen, <b>Haotian Zhang</b>, S.Gao, X.Cheng, L.Yang </small></p>
       <p><small><b>模式识别与人工智能, 2022</b></small></p>
       <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml">Paper</a>
     </td>
