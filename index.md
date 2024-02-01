@@ -1,6 +1,6 @@
 # About Me
 
-**I'm now a Ph.D. student of *School of Electronics, Peking University* under the supervision of [Dr. Xiang Cheng](https://sites.google.com/site/xchengpku/home ).**
+**I'm now a Ph.D. candidate of *School of Electronics, Peking University* under the supervision of [Dr. Xiang Cheng](http://pcni.pku.edu.cn/homepage.html).**
 
 
 # Interests
@@ -14,7 +14,7 @@
 
 # Education
 
-### - Ph.D in Information and Signal Processing
+### - Ph.D Candidate in Information and Signal Processing
 #### _2022/-09-2027/06 (expected)_
   * **Peking University, Beijing**
 
@@ -23,6 +23,20 @@
   * **University of Electronic Science and Technology of China, Chengdu**
 
 # Publications
+<table border="2">
+  <tr>
+    <td width="75%">
+      <p><b>机器联觉：通信与多模态感知的智能融合</b></p>
+      <p><small>X.Cheng, <b>Haotian Zhang</b>, Z.Yang, Z.Huang, S.Li, A.Yu </small></p>
+      <p><small><b>通信学报, 2022</b></small></p>
+      <a href="http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137">Paper</a>
+    </td>
+    <td width="25%">
+      <img src="VCN.png" width="100%">
+    </td>
+  </tr>
+</table>
+
 <table border="2">
   <tr>
     <td width="75%">
