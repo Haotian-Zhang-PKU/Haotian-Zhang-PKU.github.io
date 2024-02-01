@@ -26,8 +26,8 @@
 <table border="2">
   <tr>
     <td width="75%">
-      <p><b></b></p>
-      <p><small>X.Cheng, <b>Haotian Zhang</b></u>, J.Zhang, S.Gao, S.Li, Z.Huang, L.Bai, Z.Yang, X.Zheng, L.Yang </small></p>
+      <p><b>Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines</b></p>
+      <p><small>X. Cheng, <b>Haotian Zhang</b></u>, J. Zhang, S. Gao, S. Li, Z. Huang, L. Bai, Z. Yang, X.Z heng, L. Yang </small></p>
       <p><small><b>IEEE Communications Surveys & Tutorials (IF=35.6), 2023</b></small></p>
       <a href="https://ieeexplore.ieee.org/document/10330577">Paper</a>
     </td>
@@ -41,7 +41,7 @@
   <tr>
     <td width="75%">
       <p><b>机器联觉：通信与多模态感知的智能融合</b></p>
-      <p><small>X.Cheng, <b>Haotian Zhang</b>, S.Li, Z.Huang, Z.Yang, S.Gao, L.Bai, J.Zhang, X.Zheng, L.Yang </small></p>
+      <p><small>X. Cheng, <b>Haotian Zhang</b>, S. Li, Z. Huang, Z. Yang, S. Gao, L. Bai, J. Zhang, X. Zheng, L. Yang </small></p>
       <p><small><b>模式识别与人工智能, 2023</b></small></p>
       <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml">Paper</a>
     </td>
