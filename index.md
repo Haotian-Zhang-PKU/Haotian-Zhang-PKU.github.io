@@ -32,7 +32,7 @@
       <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml">Paper</a>
     </td>
     <td width="25%">
-      <img src="VCN.png" width="100%">
+      <img src="中文文章.png" width="100%">
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@
       <a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml">Paper</a>
     </td>
     <td width="25%">
-      <img src="VCN.png" width="100%">
+      <img src="v2v.png" width="100%">
     </td>
   </tr>
 </table>
