@@ -7,8 +7,8 @@
 
 **My research interests include**
 
-* **Multi-modal Sensor Fusion and Its Application in Transceiver Design**: The fusion of multi-modal sensory data assisted predictive beamforming and channel estimation in Vehicular Communication Networks
-* **Multi-modal Information Assisted Resource Allocation in Large-Scale Multi-Agent Scenarios**:  Multi-modal sensory data assisted load forecasting and communication resource allocation
+* **Multi-modal Sensing-Communication Integration Aided Transceiver Design**: Explore how to effectively utilize multi-modal sensing to assist in transceiver design, e.g., proactive beamforming, channel estimation, and precoding design.
+
 
 
 
