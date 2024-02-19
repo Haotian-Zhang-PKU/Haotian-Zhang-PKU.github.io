@@ -107,18 +107,7 @@
   </tr>
 </table>
 
-# Projects
 
-### The research of identification of influential spreaders in complex networks
-#### _2020/9-2021/05_
-* Attend a highly collaborative project focused on the mining of influential nodes in complex networks and fuzzy theory.
-* Put forward the concept that inner structure in a node’s box contains information about its importance in complex networks and proposed LFIC algorithm. Combined the global information of networks with the nodes’ degree changing rates and proposed LDD algorithm.
-
-### Research on anomaly detection based on Unsupervised Machine Learning in Wireless Sensor Networks	
-#### _2019/10-2020/10_
-* Attend a highly collaborative project focused on the detection of anomalous attackers in WSNs.
-* Applied the Density Based Clustering (DPC) algorithm to the detection of anomalous behavior in WSNs, and proposed the NB-DPC algorithm to detect the selective forwarding attack in WSNs.
-* The work has gotten national patent. (Patent number: CN112929879A)
 
 # Awards
 
