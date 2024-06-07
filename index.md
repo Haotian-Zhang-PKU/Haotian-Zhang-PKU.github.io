@@ -26,6 +26,20 @@
 <table border="2">
   <tr>
     <td width="75%">
+      <p><b>Integrated Sensing and Communications Towards Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)</b></p>
+      <p><small><b>Haotian Zhang*</b>, S. Gao, X. Cheng, L. Yang </small></p>
+      <p><small><b>IEEE Transactions on Wireless Communications (SCI, JCR Q1, IF: 10.4), 2023</b></small></p>
+      <a href="https://ieeexplore.ieee.org/document/10330577">Paper</a>
+    </td>
+    <td width="25%">
+      <img src="MMFF.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
       <p><b>Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines</b></p>
       <p><small>X. Cheng, <b>Haotian Zhang*</b>, J. Zhang, S. Gao, S. Li, Z. Huang, L. Bai, Z. Yang, X. Zheng, L. Yang </small></p>
       <p><small><b>IEEE Communications Surveys & Tutorials (SCI, JCR Q1, IF: 35.6), 2023</b></small></p>
