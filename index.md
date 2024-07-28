@@ -23,6 +23,7 @@
   * **School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu**
 
 # Publications
+## Journal Papers
 <table border="2">
   <tr>
     <td width="75%">
@@ -125,23 +126,15 @@
 
 # Awards
 
+### Peking University Presidential Scholarship for Ph.D. candidates
+#### _2024/6_
+
 ### Honours Bachelor Degrees of UESTC
 #### _2022/6_
 
 ### National Scholarship
 #### _2020/10_
 
-### Provincial First Prize in CUMCM
-#### _2020/10_
-
-### National Second Prize in NECCS
-#### _2021/5_
-
-### National Third Prize in NECCS
-#### _2020/10_
-
-### Honorable Mention of 2021 Mathematical Contest in Modeling (MCM)
-#### _2021/5_
 
 
 
