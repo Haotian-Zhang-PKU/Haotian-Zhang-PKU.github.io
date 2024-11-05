@@ -127,13 +127,16 @@
 
 # Awards
 
+### National Scholarship (Ph.D.)
+#### _2024/11_
+
 ### Peking University Presidential Scholarship for Ph.D. candidates
 #### _2024/6_
 
 ### Honours Bachelor Degrees of UESTC
 #### _2022/6_
 
-### National Scholarship
+### National Scholarship (Undergraduate)
 #### _2020/10_
 
 
