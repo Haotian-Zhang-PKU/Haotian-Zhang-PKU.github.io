@@ -127,7 +127,7 @@
 
 # Awards
 
-### National Scholarship (Ph.D.)  _2024/11_
+### National Scholarship (Ph.D.)  ####_2024/11_
 
 ### Peking University Presidential Scholarship for Ph.D. candidates
 #### _2024/6_
