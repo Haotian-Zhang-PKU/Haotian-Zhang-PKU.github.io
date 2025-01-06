@@ -11,13 +11,6 @@
 - *2019.06 - Present*, Ph.D Candidate, School of Electronics, Peking University, Beijing.
 - *2018.09 - 2022.06*, Undergraduate, School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
   
-### - Ph.D Candidate in Information and Signal Processing
-#### _2022/-09-2027/06 (expected)_
-  * **School of Electronics, Peking University, Beijing**
-
-### - Bachelor of Network Engineering
-#### _2018/09-2022/06_
-  * **School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu**
 
 ## 📝 Publications
 ### SoM & ISAC 
@@ -37,14 +30,25 @@
 
 ## 🎖 Honors and Awards
 - *2024.10* National Scholarship (Ph.D. candidates)
+- *2024.10* Merit Student Pacesetter
 - *2024.5* Peking University Presidential Scholarship for Ph.D. candidates
 - *2022.6* Honours Bachelor Degrees of UESTC
 - *2021.12* The Most Outstanding Students Award of UESTC Nomination
 - *2021.10* WAC Lighting Scholarship 
 - *2020.10* National Scholarship (Undergraduate) 
 
+## 💻Academic Service
+### Technical Reviewers
+- IEEE Transactions on Wireless Communications
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Network Science and Engineering
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Communications
+- IEEE Communications Surveys & Tutorials
+- IET Communications
+- IEEE/CIC International Conference on Communications in China (ICCC)
 
-
+  
 ## Contact Me
 
 **Email:** haotianzhang@stu.pku.edu.cn
