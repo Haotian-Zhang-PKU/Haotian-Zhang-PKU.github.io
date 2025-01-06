@@ -1,19 +1,16 @@
-## About Me
+## 🔥 About Me
 
 **I'm now a Ph.D. candidate of School of Electronics, Peking University under the supervision of *[Prof. Xiang Cheng (IEEE Fellow)](http://pcni.pku.edu.cn/homepage.html)*. I am a group member of *[Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html)*. My Google Scholar link is *[here](https://scholar.google.com/citations?hl=zh-CN&user=Vph0sK0AAAAJ&view_op=list_works&sortby=pubdate)*.**
 
-
-## Interests
-
-**My research interests include**
-
-* **Multi-modal Sensing-Communication Integration Aided Transceiver Design**: Explore how to effectively utilize multi-modal sensing to assist in transceiver design, e.g., proactive beamforming, channel estimation, and precoding design.
+**My research interests include Multi-modal Sensing-Communication Integration Aided Transceiver Design**: Explore how to effectively utilize multi-modal sensing to assist in transceiver design, e.g., proactive beamforming, channel estimation, and precoding design.
 
 
 
 
-## Education
-
+## 📖 Education
+- *2019.06 - Present*, Ph.D Candidate, School of Electronics, Peking University, Beijing.
+- *2018.09 - 2022.06*, Undergraduate, School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
+  
 ### - Ph.D Candidate in Information and Signal Processing
 #### _2022/-09-2027/06 (expected)_
   * **School of Electronics, Peking University, Beijing**
