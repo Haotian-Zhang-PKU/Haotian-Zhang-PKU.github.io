@@ -121,12 +121,14 @@
   </tr>
 </table>
 
+#### SoM & ISAC 
+- [Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines](https://ieeexplore.ieee.org/document/10330577), X. Cheng, **Haotian Zhang**, et al., IEEE Communications Surveys & Tutorials.
+- [机器联觉：通信与多模态感知的智能融合](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml), X. Cheng, **Haotian Zhang**, et al., 模式识别与人工智能.
+- [车联网通信感知一体化研究：现状与发展趋势](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137),  X. Cheng, **Haotian Zhang**, et al., 通信学报.
 
 #### Beam Management
-- [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, Shijian Gao, Xiang Cheng, and Liuqing Yang, IEEE Transactions on Wireless Communications.
-- [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, et al.
-- [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, et al.
-- [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, et al.
+- [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Wireless Communications.
+- [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), W. Wen, **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang.
 
 #### Music Generation 
 - ``ACM-MM 2020`` [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al.
