@@ -22,7 +22,7 @@
 #### _2018/09-2022/06_
   * **School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu**
 
-# Publications
+# 📝 Publications
 ## Journal Papers
 <table border="2">
   <tr>
@@ -124,20 +124,6 @@
 
 ## Patents
 1. 程翔，张浩天，“一种基于多模态信息联觉的车联网波束实时对准方法”，专利号：ZL202211024842.1
-
-# Awards
-
-### National Scholarship (Ph.D.)     
-#### _2024/11_
-
-### Peking University Presidential Scholarship for Ph.D. candidates
-#### _2024/6_
-
-### Honours Bachelor Degrees of UESTC     
-#### _2022/6_
-
-### National Scholarship (Undergraduate)   
-#### _2020/10_
 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship (Ph.D. candidates)
