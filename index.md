@@ -18,7 +18,7 @@
 - [机器联觉：通信与多模态感知的智能融合](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml), X. Cheng, **Haotian Zhang**, et al., 模式识别与人工智能.
 - [车联网通信感知一体化研究：现状与发展趋势](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137),  X. Cheng, **Haotian Zhang**, et al., 通信学报.
 
-### Transceiver esign
+### Transceiver Design
 - [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Wireless Communications.
 - [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), W. Wen, **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang.
 - ``Reviewed by ICC 2025`` [Synesthesia of Machines (SoM)-Aided FDD Precoding with Sensing Heterogeneity: A Vertical Federated Learning Approach], **Haotian Zhang**, S. Gao, W. Wen, and X. Cheng.
