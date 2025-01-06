@@ -123,7 +123,7 @@
 
 
 #### Beam Management
-- [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)], Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
+- [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, Shijian Gao, Xiang Cheng, and Liuqing Yang, IEEE Transactions on Wireless Communications.
 - [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, et al.
 - [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, et al.
 - [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, et al.
