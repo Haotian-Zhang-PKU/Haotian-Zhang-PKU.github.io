@@ -139,6 +139,13 @@
 ### National Scholarship (Undergraduate)   
 #### _2020/10_
 
+# 🎖 Honors and Awards
+- *2024.10* National Scholarship (Ph.D. candidates)
+- *2024.5* Peking University Presidential Scholarship for Ph.D. candidates
+- *2022.6* Honours Bachelor Degrees of UESTC
+- *2021.12* The Most Outstanding Students Award of UESTC Nomination
+- *2021.10* WAC Lighting Scholarship 
+- *2020.10* National Scholarship (Undergraduate) 
 
 
 
