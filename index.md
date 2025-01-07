@@ -37,7 +37,7 @@
 - *2021.10* WAC Lighting Scholarship 
 - *2020.10* National Scholarship (Undergraduate) 
 
-## 💻Academic Service
+## 💻 Academic Service
 ### Technical Reviewers
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Vehicular Technology
