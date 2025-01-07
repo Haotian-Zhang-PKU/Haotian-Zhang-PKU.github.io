@@ -8,7 +8,7 @@
 
 
 ## 📖 Education
-- *2019.06 - Present*, Ph.D Candidate, School of Electronics, Peking University, Beijing.
+- *2022.09 - Present*, Ph.D Candidate, School of Electronics, Peking University, Beijing.
 - *2018.09 - 2022.06*, Undergraduate, School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
   
 
