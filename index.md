@@ -21,7 +21,7 @@
 ### Transceiver Design
 - [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Wireless Communications.
 - [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), W. Wen, **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang.
-- ``Reviewed by ICC 2025`` [Synesthesia of Machines (SoM)-Aided FDD Precoding with Sensing Heterogeneity: A Vertical Federated Learning Approach], **Haotian Zhang**, S. Gao, W. Wen, and X. Cheng.
+- [Synesthesia of Machines (SoM)-Aided FDD Precoding with Sensing Heterogeneity: A Vertical Federated Learning Approach], **Haotian Zhang**, S. Gao, W. Wen, and X. Cheng, ICC-2025 IEEE International Conference on Communications (ICC).
 - ``Reviewed by IEEE TVT`` [Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning with LiDAR Sensing](https://arxiv.org/abs/2408.12252), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang.
 
 ### Network Science
