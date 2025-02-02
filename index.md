@@ -41,7 +41,7 @@
 ### Technical Reviewers
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Vehicular Technology
-- IEEE Transactions on Network Science and Engineering
+- IEEE Antennas and Wireless Propagation Letters
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Communications
 - IEEE Communications Surveys & Tutorials
