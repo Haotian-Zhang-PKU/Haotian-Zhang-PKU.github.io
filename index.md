@@ -44,6 +44,7 @@
 - IEEE Antennas and Wireless Propagation Letters
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Communications
+- IEEE Communications Magazine
 - IEEE Communications Surveys & Tutorials
 - IET Communications
 - IEEE/CIC International Conference on Communications in China (ICCC)
