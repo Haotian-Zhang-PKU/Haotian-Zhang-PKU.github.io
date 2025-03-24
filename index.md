@@ -42,8 +42,8 @@
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Vehicular Technology
 - IEEE Antennas and Wireless Propagation Letters
-- IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Communications
+- IEEE Transactions on Intelligent Transportation Systems
 - IEEE Communications Magazine
 - IEEE Communications Surveys & Tutorials
 - IET Communications
