@@ -2,7 +2,7 @@
 
 **I'm now a Ph.D. candidate of School of Electronics, Peking University under the supervision of *[Prof. Xiang Cheng (IEEE Fellow)](http://pcni.pku.edu.cn/homepage.html)*. I am a group member of *[Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html)*. My Google Scholar link is *[here](https://scholar.google.com/citations?hl=zh-CN&user=Vph0sK0AAAAJ&view_op=list_works&sortby=pubdate)*.**
 
-**My research interests include Multi-modal Sensing-Communication Integration Aided Transceiver Design**: Explore how to effectively utilize multi-modal sensing to assist in transceiver design, e.g., proactive beamforming, channel estimation, and precoding design.
+**My research interests include Multi-modal Sensing Aided Transceiver Design and Wireless Foundation Model**: Explore how to effectively utilize multi-modal sensing to assist in transceiver design, e.g., proactive beamforming, channel estimation, and precoding design. In addition, I am also interested in how to construct a wireless foundation model with multi-modal sensing's enhancement, with the aim of empowering stronger and more generalized transceiver design.
 
  
 
@@ -22,6 +22,7 @@
 - [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Wireless Communications.
 - [Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning with LiDAR Sensing](https://ieeexplore.ieee.org/document/10938924/), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Vehicular Technology.
 - [Synesthesia of Machines (SoM)-Aided FDD Precoding with Sensing Heterogeneity: A Vertical Federated Learning Approach](https://arxiv.org/abs/2501.10941), **Haotian Zhang**, S. Gao, W. Wen, and X. Cheng, ICC-2025 IEEE International Conference on Communications (ICC).
+- [Synesthesia of Machines (SoM)-Aided Online FDD Precoding via Heterogenous Multi-Modal Sensing: A Vertical Federated Learning Approach], **Haotian Zhang**, S. Gao, W. Wen, X. Cheng, and L. Yang, submitted for publication.
 - [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), W. Wen, **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, 模式识别与人工智能.
 
 ### Network Science
