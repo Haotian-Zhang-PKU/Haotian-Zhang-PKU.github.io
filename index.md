@@ -16,7 +16,7 @@
 ### SoM & ISAC 
 - [Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines](https://ieeexplore.ieee.org/document/10330577), X. Cheng, **Haotian Zhang**, et al., IEEE Communications Surveys & Tutorials.
 - [机器联觉：通信与多模态感知的智能融合](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml), X. Cheng, **Haotian Zhang**, et al., 模式识别与人工智能.
-- [车联网通信感知一体化研究：现状与发展趋势](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137),  X. Cheng, **Haotian Zhang**, et al., 通信学报.
+- [车联网通信感知一体化研究：现状与发展趋势](https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2022137/),  X. Cheng, **Haotian Zhang**, et al., 通信学报.
 
 ### Transceiver Design
 - [Integrated Sensing and Communications Toward Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)](https://ieeexplore.ieee.org/document/10566572), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Wireless Communications.
