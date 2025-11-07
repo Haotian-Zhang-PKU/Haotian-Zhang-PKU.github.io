@@ -23,6 +23,7 @@
 - [Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning with LiDAR Sensing](https://ieeexplore.ieee.org/document/10938924/), **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, IEEE Transactions on Vehicular Technology.
 - [Synesthesia of Machines (SoM)-Aided FDD Precoding with Sensing Heterogeneity: A Vertical Federated Learning Approach](https://ieeexplore.ieee.org/document/11160797), **Haotian Zhang**, S. Gao, W. Wen, and X. Cheng, ICC-2025 IEEE International Conference on Communications (ICC).
 - [Synesthesia of Machines (SoM)-Aided Online FDD Precoding via Heterogenous Multi-Modal Sensing: A Vertical Federated Learning Approach](https://arxiv.org/abs/2506.07535), **Haotian Zhang**, S. Gao, W. Wen, X. Cheng, and L. Yang, submitted for publication.
+- [Tiny-WiFo: A Lightweight Wireless Foundation Model for Channel Prediction via Multi-Component Adaptive Knowledge Distillation](https://arxiv.org/abs/2511.04015), **Haotian Zhang**, S. Gao, and X. Cheng, submitted for publication.
 - [应用于毫米波车车通信的多模态感知辅助波束预测](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12650.shtml), W. Wen, **Haotian Zhang**, S. Gao, X. Cheng, and L. Yang, 模式识别与人工智能.
 
 ### Network Science
