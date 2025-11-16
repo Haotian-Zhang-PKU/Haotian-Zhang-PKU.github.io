@@ -1,5 +1,5 @@
 ---
-layout: null          # 若无主题或想完全自定义可改为 null
+layout: page
 title: "Haotian Zhang · 张浩天"
 ---
 
