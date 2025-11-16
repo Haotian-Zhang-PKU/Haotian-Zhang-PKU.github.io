@@ -1,5 +1,5 @@
 ---
-layout: default          # 若无主题或想完全自定义可改为 null
+layout: null          # 若无主题或想完全自定义可改为 null
 title: "Haotian Zhang · 张浩天"
 ---
 
@@ -15,7 +15,7 @@ title: "Haotian Zhang · 张浩天"
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Noto+Serif+SC:wght@300;400;700&display=swap" rel="stylesheet">
 
-<title>Haotian Zhang ‧ 张昊天 | Personal Page</title>
+<title>Haotian Zhang ‧ 张浩天 | Personal Page</title>
 
 <style>
 :root{
