@@ -24,7 +24,7 @@ title: "Haotian Zhang · 张浩天"
 <h2>About Me</h2>
 <p>📍 I am a <strong>Ph.D. candidate</strong> in the School of Electronics,
 Peking University, supervised by
-<a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Prof.&nbsp;Xiang Cheng (IEEE Fellow)</a>.
+<a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Prof.&nbsp;Xiang Cheng (IEEE Fellow)</a> and <a href="https://sites.google.com/view/shijian-gao" target="_blank">Prof.&nbsp;Shijian Gao</a>.
 I belong to the
 <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">PCNI group</a>.</p>
 
