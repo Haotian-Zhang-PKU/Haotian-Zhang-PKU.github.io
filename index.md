@@ -36,16 +36,14 @@ title: "Haotian Zhang · 张浩天"
   <li>
     <strong>Multi-Modal Sensing-Aided PHY Algorithm&nbsp;🔍➡️📡</strong><br>
     Exploring how to leverage ubiquitous <em>multi-modal sensing</em> data in the
-    network to optimise physical-layer algorithms such as proactive beamforming,
-    channel estimation, and precoding.
+    network to optimise physical-layer algorithms.
   </li>
 
   <li style="margin-top:0.9rem;">
     <strong>Wireless Foundation Model&nbsp;🤖🚀</strong><br>
     Investigating how to build a lightweight and universal <em>wireless
     foundation model</em> that can <em>empower</em> communication-system
-    performance through large-scale knowledge distillation and multi-modal
-    transfer.
+    performance.
   </li>
 </ul>
 </section>
