@@ -4,6 +4,20 @@ title: "Haotian Zhang · 张浩天"
 ---
 
 
+<!-- ============== HEADER ============== -->
+<header>
+  <!-- TODO: 将占位符换成个人头像 -->
+  <img class="avatar" src="/New_photo.jpg" alt="avatar">
+
+  <div class="info">
+    <div id="name" class="name" data-en="Haotian Zhang" data-zh="张浩天">Haotian Zhang</div>
+    <p class="subtitle">Ph.D. Candidate, School of Electronics, Peking University</p>
+    <div class="icon-links">
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=Vph0sK0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+      <a href="mailto:haotianzhang@stu.pku.edu.cn">Email</a>
+    </div>
+  </div>
+</header>
 
 <!-- ============== ABOUT ============== -->
 <section>
@@ -17,12 +31,6 @@ I belong to the
 </section>
 
 
-<!-- ============== ABOUT ============== -->
-<section>
-<h2>About Me</h2>
-<p> 📍I’m now a Ph.D. candidate in the School of Electronics, Peking University, under the supervision of <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Prof.&nbsp;Xiang Cheng (IEEE Fellow)</a>. I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Pervasive Connectivity and Networked Intelligence (PCNI)</a> group.</p>
-
-</section>
 
 <!-- ============== RESEARCH INTERESTS ============== -->
 <section>
