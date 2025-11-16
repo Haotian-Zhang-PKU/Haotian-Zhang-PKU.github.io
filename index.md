@@ -73,7 +73,7 @@ header{
   <img class="avatar" src="https://via.placeholder.com/300x300.png?text=Avatar" alt="avatar">
 
   <div class="info">
-    <div id="name" class="name" data-en="Haotian Zhang" data-zh="张昊天">Haotian Zhang</div>
+    <div id="name" class="name" data-en="Haotian Zhang" data-zh="张浩天">Haotian Zhang</div>
     <p class="subtitle">Ph.D. Candidate, School of Electronics, Peking University</p>
     <div class="icon-links">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=Vph0sK0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
