@@ -24,11 +24,31 @@ title: "Haotian Zhang · 张浩天"
 <!-- ============== ABOUT ============== -->
 <section>
 <h2>About Me</h2>
-<p>I’m now a Ph.D. candidate in the School of Electronics, Peking University, under the supervision of <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Prof.&nbsp;Xiang Cheng (IEEE Fellow)</a>. I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Pervasive Connectivity and Networked Intelligence (PCNI)</a> group.</p>
+<p> 📍I’m now a Ph.D. candidate in the School of Electronics, Peking University, under the supervision of <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Prof.&nbsp;Xiang Cheng (IEEE Fellow)</a>. I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Pervasive Connectivity and Networked Intelligence (PCNI)</a> group.</p>
 
-<p><strong>Research Interests — Multi-modal Sensing Aided Transceiver Design &amp; Wireless Foundation Model</strong>: exploring how to leverage multi-modal sensing for proactive beamforming, channel estimation, precoding design, and how to construct a generalized wireless foundation model empowered by sensing modalities.</p>
 </section>
 
+<!-- ============== RESEARCH INTERESTS ============== -->
+<section>
+<h2>Research&nbsp;Interests</h2>
+
+<ul>
+  <li>
+    <strong>Multi-Modal Sensing-Aided PHY Algorithm&nbsp;🔍➡️📡</strong><br>
+    Exploring how to leverage ubiquitous <em>multi-modal sensing</em> data in the
+    network to optimise physical-layer algorithms such as proactive beamforming,
+    channel estimation, and precoding.
+  </li>
+
+  <li style="margin-top:0.9rem;">
+    <strong>Wireless Foundation Model&nbsp;🤖🚀</strong><br>
+    Investigating how to build a lightweight and universal <em>wireless
+    foundation model</em> that can <em>empower</em> communication-system
+    performance through large-scale knowledge distillation and multi-modal
+    transfer.
+  </li>
+</ul>
+</section>
 
 <!-- ============== EDUCATION ============== -->
 <section>
