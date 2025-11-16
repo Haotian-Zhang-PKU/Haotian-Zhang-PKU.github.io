@@ -70,7 +70,7 @@ header{
 <!-- ============== HEADER ============== -->
 <header>
   <!-- TODO: 将占位符换成个人头像 -->
-  <img class="avatar" src="New_photo.jpg?text=Avatar" alt="avatar">
+  <img class="avatar" src="{{ '/main/New_photo.jpg' | relative_url }}" alt="avatar">
 
   <div class="info">
     <div id="name" class="name" data-en="Haotian Zhang" data-zh="张浩天">Haotian Zhang</div>
