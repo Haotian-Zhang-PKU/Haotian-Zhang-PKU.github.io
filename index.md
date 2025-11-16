@@ -5,10 +5,7 @@ title: "Haotian Zhang · 张浩天"
 
 
 
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+
 
 <!-- Google 字体：Merriweather（英） + Noto Serif SC（中） -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
