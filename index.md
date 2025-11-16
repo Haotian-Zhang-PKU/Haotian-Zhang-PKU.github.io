@@ -7,7 +7,10 @@ title: "Haotian Zhang · 张浩天"
 <!-- ============== HEADER ============== -->
 <header>
   <!-- TODO: 将占位符换成个人头像 -->
-  <img class="avatar" src="/New_photo.jpg" alt="avatar">
+  <img class="avatar"
+     src="/New_photo.jpg"
+     alt="avatar"
+     style="width:150px;height:150px;border-radius:50%;object-fit:cover;">
 
   <div class="info">
     <div id="name" class="name" data-en="Haotian Zhang" data-zh="张浩天">Haotian Zhang</div>
