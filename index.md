@@ -4,7 +4,7 @@ title: "Haotian Zhang · 张浩天"
 ---
 
 
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
