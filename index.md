@@ -104,7 +104,7 @@ header{
 
 <!-- ============== PUBLICATIONS ============== -->
 <section>
-<h2>Publications <span style="font-size:.95rem;color:var(--clr-accent)">(Selected)</span></h2>
+<h2>Publications
 
 <h3>SoM &amp; ISAC</h3>
 <ul>
@@ -132,7 +132,7 @@ header{
 
 <!-- ============== HONORS & AWARDS ============== -->
 <section>
-<h2>Honors &amp; Awards</h2>
+<h2>Honors &amp; Awards <span style="font-size:.95rem;color:var(--clr-accent)">(Selected)</span></h2>
 
 <div class="awards-year">2024</div>
 <ul>
