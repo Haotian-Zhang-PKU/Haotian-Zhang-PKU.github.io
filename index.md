@@ -145,7 +145,7 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 <ul>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9537594/" target="_blank">LFIC: Identifying Influential Nodes in Complex Networks by Local Fuzzy Information Centrality</a>, <strong>Haotian Zhang</strong>, S. Zhong, et al., IEEE Transactions on Fuzzy Systems.</li>
 </ul>
-</section>
+
 
 
 <!-- ============== HONORS & AWARDS ============== -->
