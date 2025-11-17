@@ -59,7 +59,7 @@ header{
 .fade-in{animation:fadeIn .8s ease-in forwards;opacity:0;}
 @keyframes fadeIn{to{opacity:1;}}
 </style>
-</head>
+
 
 
 <body class="fade-in">
