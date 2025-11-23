@@ -183,6 +183,7 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 <h3>Technical Reviewer</h3>
 <ul>
   <li>IEEE Transactions on Wireless Communications</li>
+  <li>IEEE Transactions on Mobile Computing</li>
   <li>IEEE Transactions on Vehicular Technology</li>
   <li>IEEE Antennas and Wireless Propagation Letters</li>
   <li>IEEE Transactions on Communications</li>
