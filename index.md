@@ -188,6 +188,7 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
   <li>IEEE Transactions on Wireless Communications</li>
   <li>IEEE Transactions on Mobile Computing</li>
   <li>IEEE Transactions on Vehicular Technology</li>
+  </li>IEEE Journal of Selected Topics in Signal Processing</li>
   <li>IEEE Communications Letters</li>
   <li>IEEE Antennas and Wireless Propagation Letters</li>
   <li>IEEE Transactions on Communications</li>
