@@ -116,9 +116,14 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 
 <h3>SoM &amp; ISAC</h3>
 <ul>
-  <li>
+  <li style="margin-bottom: 0.8rem;">
     <a href="https://ieeexplore.ieee.org/document/10330577" target="_blank">Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., IEEE Communications Surveys &amp; Tutorials.
-    <br><span style="color:var(--clr-accent); font-weight:bold; font-size: 0.95rem;">🏆 2026 IEEE Comsoc Best Survey Paper</span>
+    <br>
+    <span style="color:var(--clr-accent); font-weight:bold; font-size: 0.95rem;">🏆 2026 IEEE Communications Society Best Survey Paper Award</span>
+    <br>
+    <span style="color:#546e7a; font-size: 0.85rem; line-height: 1.4; display: inline-block; margin-top: 0.2rem;">
+      <em>(Selected from papers published within the past five years in journals owned exclusively by the IEEE Communications Society; at most one paper awarded annually, <strong>top 1/10,000</strong>. This is the <strong>first award granted to an institution from mainland China</strong>.)</em>
+    </span>
   </li>
   <li><a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml" target="_blank">机器联觉：通信与多模态感知的智能融合</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., 模式识别与人工智能.</li>
   <li><a href="https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2022137/" target="_blank">车联网通信感知一体化研究：现状与发展趋势</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., 通信学报.</li>
@@ -149,7 +154,13 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 
 <div class="awards-year">2026</div>
 <ul>
-  <li><strong>IEEE Comsoc Best Survey Paper</strong> (for paper in IEEE Communications Surveys &amp; Tutorials).</li>
+  <li style="margin-bottom: 0.5rem;">
+    <strong>IEEE Communications Society Best Survey Paper Award</strong> (for the paper published in <em>IEEE Communications Surveys &amp; Tutorials</em>).
+    <br>
+    <span style="color:#546e7a; font-size: 0.85rem; line-height: 1.4; display: inline-block; margin-top: 0.2rem;">
+      <em>Selected from papers published within the past five years in journals owned exclusively by the IEEE Communications Society; at most one paper awarded annually (top 1/10,000). The first award granted to an institution from mainland China.</em>
+    </span>
+  </li>
 </ul>
 
 <div class="awards-year">2024</div>
