@@ -163,7 +163,7 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 <div class="awards-year">2026</div>
 <ul>
   <li style="margin-bottom: 0.5rem;">
-    <strong>IEEE Communications Society Best Survey Paper Award</strong> (for the paper published in <em>IEEE Communications Surveys &amp; Tutorials</em>).
+    <strong>IEEE Communications Society Best Survey Paper Award</strong>.
     <br>
     <span style="color:#546e7a; font-size: 0.85rem; line-height: 1.4; display: inline-block; margin-top: 0.2rem;">
       <em>Selected from papers published within the past five years in journals owned exclusively by the IEEE Communications Society; at most one paper awarded annually (top 1/10,000). The first award granted to an institution from mainland China.</em>
