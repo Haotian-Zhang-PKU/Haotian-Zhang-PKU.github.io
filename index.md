@@ -105,8 +105,8 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 <section>
 <h2>Education</h2>
 <ul>
-  <li><strong>2022 .09 – Present</strong>, Ph.D. Candidate, School of Electronics, Peking University, Beijing.</li>
-  <li><strong>2018 .09 – 2022 .06</strong>, Undergraduate, School of Information &amp; Communication Engineering, UESTC, Chengdu.</li>
+  <li><strong>2022.09 – Present</strong>, Ph.D. Candidate, School of Electronics, Peking University, Beijing.</li>
+  <li><strong>2018.09 – 2022.06</strong>, Undergraduate, School of Information &amp; Communication Engineering, UESTC, Chengdu.</li>
 </ul>
 </section>
 
@@ -114,7 +114,7 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 <section>
 <h2>Internship Experience</h2>
 <ul>
-  <li><strong>2026 .06 – Present</strong>, Research Intern, Wireless Research Team, Qualcomm Wireless Communication Technologies (China) Limited.</li>
+  <li><strong>2026.06 – Present</strong>, Research Intern, Wireless Research Team, Qualcomm Wireless Communication Technologies (China) Limited.</li>
 </ul>
 </section>
 
