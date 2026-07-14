@@ -110,6 +110,14 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 </ul>
 </section>
 
+<!-- ============== EXPERIENCE ============== -->
+<section>
+<h2>Internship Experience</h2>
+<ul>
+  <li><strong>2026 .06 – Present</strong>, Research Intern, Wireless Research Team, Qualcomm Wireless Communication Technologies (China) Limited.</li>
+</ul>
+</section>
+
 <!-- ============== PUBLICATIONS ============== -->
 <section>
 <h2>Publications</h2>
