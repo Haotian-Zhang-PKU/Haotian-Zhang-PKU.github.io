@@ -3,10 +3,6 @@ layout: page
 title: "Haotian Zhang · 张浩天"
 ---
 
-
-
-
-
 <!-- Google 字体：Merriweather（英） + Noto Serif SC（中） -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -60,8 +56,6 @@ header{
 @keyframes fadeIn{to{opacity:1;}}
 </style>
 
-
-
 <body class="fade-in">
 <!-- ============== HEADER ============== -->
 <header>
@@ -85,10 +79,7 @@ header{
 Peking University, supervised by
 <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Prof.&nbsp;Xiang Cheng (IEEE Fellow)</a> and <a href="https://sites.google.com/view/shijian-gao" target="_blank">Prof.&nbsp;Shijian Gao</a>.
 I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_blank">Pervasive Connectivity and Networked Intelligence (PCNI)</a> group.</p>
-
 </section>
-
-
 
 <!-- ============== RESEARCH INTERESTS ============== -->
 <section>
@@ -119,14 +110,16 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 </ul>
 </section>
 
-
 <!-- ============== PUBLICATIONS ============== -->
 <section>
-<h2>Publications
+<h2>Publications</h2>
 
 <h3>SoM &amp; ISAC</h3>
 <ul>
-  <li><a href="https://ieeexplore.ieee.org/document/10330577" target="_blank">Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., IEEE Communications Surveys &amp; Tutorials.</li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/10330577" target="_blank">Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., IEEE Communications Surveys &amp; Tutorials.
+    <br><span style="color:var(--clr-accent); font-weight:bold; font-size: 0.95rem;">🏆 2026 IEEE Comsoc Best Survey Paper</span>
+  </li>
   <li><a href="http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml" target="_blank">机器联觉：通信与多模态感知的智能融合</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., 模式识别与人工智能.</li>
   <li><a href="https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2022137/" target="_blank">车联网通信感知一体化研究：现状与发展趋势</a>, X. Cheng, <strong>Haotian Zhang</strong>, et al., 通信学报.</li>
 </ul>
@@ -148,12 +141,16 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 <ul>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9537594/" target="_blank">LFIC: Identifying Influential Nodes in Complex Networks by Local Fuzzy Information Centrality</a>, <strong>Haotian Zhang</strong>, S. Zhong, et al., IEEE Transactions on Fuzzy Systems.</li>
 </ul>
-
-
+</section>
 
 <!-- ============== HONORS & AWARDS ============== -->
 <section>
 <h2>Honors &amp; Awards <span style="font-size:.95rem;color:var(--clr-accent)">(Selected)</span></h2>
+
+<div class="awards-year">2026</div>
+<ul>
+  <li><strong>IEEE Comsoc Best Survey Paper</strong> (for paper in IEEE Communications Surveys &amp; Tutorials).</li>
+</ul>
 
 <div class="awards-year">2024</div>
 <ul>
@@ -179,7 +176,6 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 </ul>
 </section>
 
-
 <!-- ============== ACADEMIC SERVICE ============== -->
 <section>
 <h2>Academic Service</h2>
@@ -200,13 +196,11 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
 </ul>
 </section>
 
-
 <!-- ============== CONTACT ============== -->
 <section>
 <h2>Contact</h2>
 <p>Email: <a href="mailto:haotianzhang@stu.pku.edu.cn">haotianzhang@stu.pku.edu.cn</a></p>
 </section>
-
 
 <!-- ============== JS：自动中英文切换名字 ============== -->
 <script>
@@ -221,6 +215,4 @@ I am a member of the <a href="http://pcni.pku.edu.cn/homepage.html" target="_bla
   },3000);
 })();
 </script>
-
-
-
+</body>
